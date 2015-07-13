@@ -12,10 +12,6 @@
     "zoom",
     "wheelzoom"
   ],
-  "author": "Andreas Waal <andreas.waal@verico.com> (www.verico.com)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/verico/wheelzoom/issues"
-  },
   "homepage": "https://github.com/verico/wheelzoom"
 }
