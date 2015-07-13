@@ -1,9 +1,4 @@
-/*!
-	Wheelzoom 3.0.0
-	license: MIT
-	http://www.jacklmoore.com/wheelzoom
-*/
-module.exports = (function(){
+module.exports =  typeof window === 'undefined' ? null :  (function(){
 	var defaults = {
 		zoom: 0.10
 	};
