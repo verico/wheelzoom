@@ -1,0 +1,21 @@
+{
+  "name": "vf-wheelzoom",
+  "version": "0.0.1",
+  "description": "Fork of https://github.com/jackmoore/wheelzoom. Main reason of fork is to get a CommonJS compatible version of this script to npm",
+  "main": "wheelzoom.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/verico/wheelzoom.git"
+  },
+  "keywords": [
+    "image",
+    "zoom",
+    "wheelzoom"
+  ],
+  "author": "Andreas Waal <andreas.waal@verico.com> (www.verico.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verico/wheelzoom/issues"
+  },
+  "homepage": "https://github.com/verico/wheelzoom"
+}
