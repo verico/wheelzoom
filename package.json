@@ -1,6 +1,6 @@
 {
   "name": "vf-wheelzoom",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fork of https://github.com/jackmoore/wheelzoom. Main reason of fork is to get a CommonJS compatible version of this script to npm",
   "main": "wheelzoom.js",
   "repository": {
